@@ -1,16 +1,39 @@
-# spring_edge_assignment
+# Spring Edge Assignment – Web Page Design with Auto-complete Feature
 
-A new Flutter project.
+This project was part of an assignment task where I was required to:
 
-## Getting Started
+- Design and implement a **web page screen** using **Flutter**.
+- Integrate an **auto-complete text field** using the given API endpoint.
+- Ensure responsive design and modern UI/UX best practices.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✨ Clean and responsive web UI built with Flutter
+- 🔍 Auto-complete search feature
+- 📱 Fully responsive layout
+- 🖱️ Hover states and material-compliant styling
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📡 API Used
+
+- **Universities API** – [Hipolabs](http://universities.hipolabs.com/)
+- Returns a list of universities based on the name query string.
+
+
+---
+
+## 📸 Screenshots
+
+| UI Preview |
+|------------|
+| ![Screenshot](assets/screenshots/screen1.png) |
+
+## 🎥 Demo Video
+
+👉 [Click here to watch the demo]([https://drive.google.com/your-google-drive-link-here](https://drive.google.com/file/d/1zpXhFaDi8Ds-VurVg18HyDUouQNquwC-/view?usp=sharing))
+
+---
+
