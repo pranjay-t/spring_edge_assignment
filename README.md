@@ -33,7 +33,7 @@ This project was part of an assignment task where I was required to:
 
 ## 🎥 Demo Video
 
-👉 [Click here to watch the demo]([https://drive.google.com/file/d/1zpXhFaDi8Ds-VurVg18HyDUouQNquwC-/view?usp=sharing])
+👉 [Click here to watch the demo](https://drive.google.com/file/d/1zpXhFaDi8Ds-VurVg18HyDUouQNquwC-/view?usp=sharing)
 
 ---
 
