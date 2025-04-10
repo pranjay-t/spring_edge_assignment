@@ -29,11 +29,11 @@ This project was part of an assignment task where I was required to:
 
 | UI Preview |
 |------------|
-| ![Screenshot](assets/screenshots/screen1.png) |
+| ![Screenshot](assets/screenshots/spring_edge_assignment_screen.png) |
 
 ## 🎥 Demo Video
 
-👉 [Click here to watch the demo]([https://drive.google.com/your-google-drive-link-here](https://drive.google.com/file/d/1zpXhFaDi8Ds-VurVg18HyDUouQNquwC-/view?usp=sharing))
+👉 [Click here to watch the demo]([https://drive.google.com/file/d/1zpXhFaDi8Ds-VurVg18HyDUouQNquwC-/view?usp=sharing])
 
 ---
 
